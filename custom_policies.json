@@ -1,0 +1,16 @@
+{
+    "Policies": [
+        {
+            "PolicyName": "RestrictEC2",
+            "PolicyId": "ANPATQ2TDELHTY7AKOF2F",
+            "Arn": "arn:aws:iam::242303050447:policy/RestrictEC2",
+            "Path": "/",
+            "DefaultVersionId": "v1",
+            "AttachmentCount": 1,
+            "PermissionsBoundaryUsageCount": 0,
+            "IsAttachable": true,
+            "CreateDate": "2025-04-22T21:06:03+00:00",
+            "UpdateDate": "2025-04-22T21:06:03+00:00"
+        }
+    ]
+}
